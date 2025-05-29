@@ -1,0 +1,18 @@
+Designator,Val,Footprint,Mid X,Mid Y,Rotation??,Layer?
+C1,10uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,188.2,-92,90,T
+C2,10uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,176.5,-92,90,T
+C3,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,177,-103.5,0,T
+D1,RED,D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,187.5,-87.5,90,T
+D2,GREEN,D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,169.5,-98,0,T
+D3,GREEN,D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,169.5,-100.5,0,T
+D4,GREEN,D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,169.5,-95.5,0,T
+J1,Conn_01x03_Pin,PinHeader_1x03_P2.54mm_Vertical,177.46,-87.5,90,T
+J3,Conn_02x05_Odd_Even,PinHeader_2x05_P2.54mm_Vertical,164.160254,-103.999181,180,T
+R1,200,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,185.5,-87.5,90,T
+R2,200,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,177,-99.5,180,T
+R3,200,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,177,-101.5,180,T
+R4,200,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,176.1,-96.7,-90,T
+SW1,~,SW-TH_6P-L7.0-W7.0-P2.00,171,-90,0,T
+U1,AMS1117-3.3,SOT-223-3_TabPin2,182.3625,-94,180,T
+U2,CH340N,SOP-8_3.9x4.9mm_P1.27mm,183,-101.5,180,T
+USB1,~,USB-A-SMD_U217-041N-4BV81,192.673,-95.5,90,T
